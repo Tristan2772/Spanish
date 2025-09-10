@@ -7,7 +7,7 @@
 h1 {
     font-size: 36px;
     text-align: center;
-    margin: 40px;
+    margin-bottom: 30px;
 }
 
 section.container {
@@ -15,7 +15,7 @@ section.container {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
-    gap: 20px;
+    gap: 18px;
 
     div {
         width: 45%;
