@@ -10,12 +10,24 @@ h1 {
     margin-bottom: 30px;
 }
 
+#main-link-list{
+    display: flex;
+    flex-direction: column;
+    gap: 17.5px;
+    width: 95%;
+    margin: auto;
+
+    a {
+        display: block;
+    }
+}
+
 section.container {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
-    gap: 18px;
+    gap: 17.5px;
 
     div {
         width: 45%;
