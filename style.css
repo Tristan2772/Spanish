@@ -13,7 +13,7 @@ h1 {
 #main-link-list{
     display: flex;
     flex-direction: column;
-    gap: 17.5px;
+    gap: 15.5px;
     width: 95%;
     margin: auto;
 
